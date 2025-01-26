@@ -9,7 +9,7 @@ description: 오브젝트 데이터 송수신을 위한 MongoDB 연결을 공부
 ---
 Unity Version : 2022.3.16f1 LTS
 
-## MongoDB 사용 설정
+# MongoDB 사용 설정
 
 MongoDB를 유니티에서 사용하기 위해 MongoDB Driver가 필요
 
@@ -17,7 +17,7 @@ MongoDB를 유니티에서 사용하기 위해 MongoDB Driver가 필요
 
 그래서 NuGetForUnity를 설치해야함
 
-### NuGetForUnity 설치
+## NuGetForUnity 설치
 
 1. Window → Package Manager → Add package from git URL… 
 2. https://github.com/GlitchEnzo/NuGetForUnity?path=/src/NuGetForUnity 입력
@@ -26,16 +26,16 @@ MongoDB를 유니티에서 사용하기 위해 MongoDB Driver가 필요
 
 
 ![](../image/1%204.png)
-### MongoDB Driver 설치
+## MongoDB Driver 설치
 
 1. NuGet → Manage NuGet Packages 
 2. 검색창에 MongoDB 검색 → MongoDB.Driver 설치
 
 스크립트 작성 준비 끝!
 
-## Mongo DB 연결 스크립트 작성
+# Mongo DB 연결 스크립트 작성
 
-### 연결이 되는지부터 테스트
+## 연결이 되는지부터 테스트
 
 ```csharp
 // DBTest.cs
@@ -78,7 +78,7 @@ public class DBTest : MonoBehaviour
 }
 ```
 
-### 싱글톤 타입으로 DBManager 작성
+## 싱글톤 타입으로 DBManager 작성
 
 DB에 접근하려는 시도는 앞으로도 많이 있을 것 같아서
 
@@ -140,7 +140,7 @@ public class DBManager : MonoBehaviour
 }
 ```
 
-## 참고자료
+# 참고자료
 
 [유니티 웹서버 통신](https://velog.io/@_hoya_/Unity-Webserver-Networking)
 
