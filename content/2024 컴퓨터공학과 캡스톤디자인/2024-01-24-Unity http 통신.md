@@ -87,18 +87,17 @@ public void OnClickRegister()
 
 ### 결과
 
-![이미 있는 아이디 작성했을 때](https://cdn.jsdelivr.net/gh/lhr4426/lhr4426.github.io@master/assets/img/posts/2024-01-24-Unity http 통신/1.png)
+![](../image/1%205.png)
 
 이미 있는 아이디 작성했을 때
 
-![Untitled](https://cdn.jsdelivr.net/gh/lhr4426/lhr4426.github.io@master/assets/img/posts/2024-01-24-Unity http 통신/2.png)
+![](../image/2%204.png)
 
-![없는 아이디 작성했을 때](https://cdn.jsdelivr.net/gh/lhr4426/lhr4426.github.io@master/assets/img/posts/2024-01-24-Unity http 통신/3.png)
+![](../image/3%204.png)
 
 없는 아이디 작성했을 때
 
-![Untitled](https://cdn.jsdelivr.net/gh/lhr4426/lhr4426.github.io@master/assets/img/posts/2024-01-24-Unity http 통신/4.png)
-
+![](../image/4%204.png)
 ## 참고자료
 
 [유니티 HTTP 통신 구현 핵심 정리1](https://coding-of-today.tistory.com/166)

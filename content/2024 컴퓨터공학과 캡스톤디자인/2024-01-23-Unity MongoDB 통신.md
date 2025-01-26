@@ -24,8 +24,8 @@ MongoDB를 유니티에서 사용하기 위해 MongoDB Driver가 필요
 
 성공하면 아래와 같이 툴바에 NuGet 드롭다운 버튼이 생김
 
-![Untitled](https://cdn.jsdelivr.net/gh/lhr4426/lhr4426.github.io@master/assets/img/posts/2024-01-23-Unity MongoDB 통신/1.png)
 
+![](../image/1%204.png)
 ### MongoDB Driver 설치
 
 1. NuGet → Manage NuGet Packages 
