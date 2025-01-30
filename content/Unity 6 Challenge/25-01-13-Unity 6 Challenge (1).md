@@ -5,7 +5,7 @@ tags:
   - Unity
 description: Unity 6 Challenge
 ---
-[유니티 6 챌린지 기록](index.md)
+[유니티 6 챌린지 기록](./index.md)
 # 세팅
 
 ## 뭉개기 해제
