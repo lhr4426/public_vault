@@ -5,7 +5,7 @@ tags:
   - Unity
 description: Unity 6 Challenge
 ---
-[유니티 6 챌린지 기록](./index.md)
+[2025 Unity 6 Challenge](2025%20Unity%206%20Challenge.md)
 
 원래는 이대로 끝내려고 했는데, 튜토리얼만 따라가기엔 너무 심심해서 조금 변형해 보았음
 

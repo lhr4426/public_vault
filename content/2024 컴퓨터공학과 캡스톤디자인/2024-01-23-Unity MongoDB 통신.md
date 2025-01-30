@@ -8,6 +8,7 @@ tags:
 description: 오브젝트 데이터 송수신을 위한 MongoDB 연결을 공부함
 ---
 Unity Version : 2022.3.16f1 LTS
+[2024 컴퓨터공학과 캡스톤디자인 - Next Reality](2024%20컴퓨터공학과%20캡스톤디자인%20-%20Next%20Reality.md)
 
 # MongoDB 사용 설정
 

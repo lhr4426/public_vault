@@ -1,5 +1,8 @@
 ---
 title: 김치런 만들기
+date: 2025-01-17
+tags:
+  - Unity
 description: Unity 6 Challenge
 ---
 Unity 3D 만 진행해봐서, 2D 게임 제작도 도전해보고 싶다는 생각이 들었음.

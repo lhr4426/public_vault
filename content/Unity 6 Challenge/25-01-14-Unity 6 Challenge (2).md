@@ -5,7 +5,7 @@ tags:
   - Unity
 description: Unity 6 Challenge
 ---
-[유니티 6 챌린지 기록](./index.md)
+[2025 Unity 6 Challenge](2025%20Unity%206%20Challenge.md)
 
 
 # 플레이어 점프
