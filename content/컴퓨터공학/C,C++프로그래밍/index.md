@@ -1,5 +1,5 @@
 ---
-title: C,C++프로그래밍 정리
+title: C,C++프로그래밍
 date: 
 tags:
   - C
