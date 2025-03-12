@@ -5,6 +5,7 @@ tags:
   - Unity
   - MongoDB
   - 데이터베이스
+  - 게임개발
 description: 오브젝트 데이터 송수신을 위한 MongoDB 연결을 공부함
 ---
 Unity Version : 2022.3.16f1 LTS

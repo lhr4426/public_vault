@@ -7,7 +7,7 @@ tags:
   - Cpp
 description: 정수 N개의 합
 ---
-[문제 링크]()  
+[문제 링크](https://www.acmicpc.net/problem/15596)  
 난이도 : 브론즈 2
 
 # 문제 내용

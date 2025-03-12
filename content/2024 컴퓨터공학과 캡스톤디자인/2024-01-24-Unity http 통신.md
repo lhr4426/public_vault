@@ -5,6 +5,7 @@ tags:
   - Unity
   - http
   - 통신
+  - 게임개발
 description: 다른 캡스톤 팀원이 웹 서버를 만들어 두어서, 그 서버 메소드를 사용하기 위해 get을 사용하는 과정을 기록했음
 ---
 Unity Version : 2022.3.16f1 LTS
