@@ -1,5 +1,5 @@
 ---
-title: 2024 DSC 공유대학 캡스톤디자인
+title: Motion Wave
 date: 2025-01-05
 tags:
   - Unity
