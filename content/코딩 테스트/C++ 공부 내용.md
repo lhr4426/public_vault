@@ -59,3 +59,29 @@ accumulate(nums.begin(), nums.end(), 0, [&, index = 0](int x, int y) mutable {
 - 문자열끼리 이으려면 string.append() 하던가 += 사용  
 - find(탐색 문자열, 인덱스 = 0) : 탐색 문자열을 앞에서부터 검색함  
 - rfind(탐색 문자열, 인덱스 =npos) : 탐색 문자열을 뒤에서부터 검색함  
+- 정규표현식 사용하는법
+```c++
+#include <regex>
+...
+int main() {
+	string str; 
+	regex r("구분자");
+	sregex_token_iterator it(str.start(), str.end(), r, -1); // -1 하면 r에 들어간거 기준으로 분리한다는 의미
+	sregex_token_iterator end;
+
+	for(; it != end; it++) {
+		cout << *it << endl;
+	}
+}
+```
+- unordered_map을 value 기준으로 비교하려고 할 때 쓰는 방법: vector로 바꿔라!
+```c++
+bool cmp(pair<int, int> &a, pair<int, int> &b) {
+	return a.second > b.second;
+}
+
+int main() {
+	
+
+}
+```
