@@ -85,3 +85,14 @@ int main() {
 
 }
 ```
+- split 이렇게 쓰자
+```cpp
+    vector<string> arr; // split 저장할 배열
+    long long pos = 0; // 구분자 찾은 위치
+    while((pos = s.find("구분자")) != string::npos) { // 구분자 찾아질 때 까지
+        string subs = s.substr(0, pos); // 구분자 위치 전까지 subs로 저장
+        arr.push_back(subs); // subs를 arr에 넣기
+        s.erase(0, pos + 1); // 구분자 위치까지 싹 지움
+    }
+    arr.push_back(s); // 마지막 부분도 잊지말고 넣자!
+```
