@@ -95,4 +95,13 @@ int main() {
         s.erase(0, pos + 1); // 구분자 위치까지 싹 지움
     }
     arr.push_back(s); // 마지막 부분도 잊지말고 넣자!
+
+
+// 아니면 공백으로 나뉜거면 stringstream 써도 됨.
+#include <sstream>
+
+stringstream ss(text);
+string one, two;
+ss >> one >> two
 ```
+- map, unordered_map == 연산 가능함. 모든 키-값 쌍의 내용이 같으면 true임
