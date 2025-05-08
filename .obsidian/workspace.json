@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/코딩 테스트/프로그래머스/신고 결과 받기.md",
+                "file": "content/코딩 테스트/프로그래머스/메뉴 리뉴얼.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "신고 결과 받기"
+              "title": "메뉴 리뉴얼"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a1cd97940223288",
@@ -179,6 +180,8 @@
   },
   "active": "8253132ee18ad072",
   "lastOpenFiles": [
+    "content/코딩 테스트/프로그래머스/올바른 괄호.md",
+    "content/코딩 테스트/프로그래머스/메뉴 리뉴얼.md",
     "content/코딩 테스트/C++ 공부 내용.md",
     "content/코딩 테스트/프로그래머스/신고 결과 받기.md",
     "content/코딩 테스트/프로그래머스/베스트 앨범.md",
@@ -203,8 +206,6 @@
     "content/코딩 테스트/프로그래머스/방문 길이.md",
     "content/코딩 테스트/프로그래머스/문자열 여러 번 뒤집기.md",
     "content/코딩 테스트/프로그래머스/문자열 겹쳐쓰기.md",
-    "content/코딩 테스트/프로그래머스/모의고사.md",
-    "content/코딩 테스트/프로그래머스/뒤에서 5등까지.md",
     "content/image/Next Reality 최종 구성도.png",
     "content/image/에셋업로드창.png",
     "content/image/125612512.jpg",

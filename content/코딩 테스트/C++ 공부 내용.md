@@ -105,3 +105,19 @@ string one, two;
 ss >> one >> two
 ```
 - map, unordered_map == 연산 가능함. 모든 키-값 쌍의 내용이 같으면 true임
+- bit 연산 써야할 때에는 bitset 쓰기. [참고링크](https://notepad96.tistory.com/35)
+```cpp
+#include <bitset>
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+	bitset<20> bit(58); // 10진수 58로 bitset 초기화
+	for(int i = 0; i < bitset.size(); i++) {
+		cout << bit[i] << " "; 
+		// 참고 : bitset은 이렇게 index for문 하면 기본적으로 뒤에서부터 돔
+	}
+}
+```
