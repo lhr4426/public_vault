@@ -85,3 +85,39 @@ int main() {
 
 }
 ```
+- split 이렇게 쓰자
+```cpp
+    vector<string> arr; // split 저장할 배열
+    long long pos = 0; // 구분자 찾은 위치
+    while((pos = s.find("구분자")) != string::npos) { // 구분자 찾아질 때 까지
+        string subs = s.substr(0, pos); // 구분자 위치 전까지 subs로 저장
+        arr.push_back(subs); // subs를 arr에 넣기
+        s.erase(0, pos + 1); // 구분자 위치까지 싹 지움
+    }
+    arr.push_back(s); // 마지막 부분도 잊지말고 넣자!
+
+
+// 아니면 공백으로 나뉜거면 stringstream 써도 됨.
+#include <sstream>
+
+stringstream ss(text);
+string one, two;
+ss >> one >> two
+```
+- map, unordered_map == 연산 가능함. 모든 키-값 쌍의 내용이 같으면 true임
+- bit 연산 써야할 때에는 bitset 쓰기. [참고링크](https://notepad96.tistory.com/35)
+```cpp
+#include <bitset>
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+	bitset<20> bit(58); // 10진수 58로 bitset 초기화
+	for(int i = 0; i < bitset.size(); i++) {
+		cout << bit[i] << " "; 
+		// 참고 : bitset은 이렇게 index for문 하면 기본적으로 뒤에서부터 돔
+	}
+}
+```
