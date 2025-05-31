@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2025 스파르타 내배캠 유니티 11기/index.md",
+                "file": "content/2025 스파르타 내배캠 유니티 11기/사전강의/3주차 강의 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "3주차 강의 정리"
             }
           }
         ]
@@ -179,8 +179,17 @@
   },
   "active": "8253132ee18ad072",
   "lastOpenFiles": [
-    "content/2024 DSC 공유대학 캡스톤디자인/index.md",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의/2주차 강의 정리.md",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의/3주차 강의 정리.md",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의/1주차 강의 정리.md",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의/무제.md",
+    "content/Unity 6 Challenge/25-01-13-Unity 6 Challenge (1).md",
     "content/2025 스파르타 내배캠 유니티 11기/index.md",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의/1주차/무제.md",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의/1주차",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의/index.md",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의",
+    "content/2024 DSC 공유대학 캡스톤디자인/index.md",
     "content/코딩 테스트/프로그래머스/할인 행사.md",
     "content/코딩 테스트/프로그래머스/표 편집.md",
     "content/코딩 테스트/프로그래머스/카드 뭉치.md",
@@ -199,13 +208,6 @@
     "content/코딩 테스트/프로그래머스/주식가격.md",
     "content/코딩 테스트/프로그래머스/짝지어 제거하기.md",
     "content/코딩 테스트/프로그래머스/정수를 나선형으로 배치하기.md",
-    "content/코딩 테스트/프로그래머스/이어붙인 수.md",
-    "content/코딩 테스트/프로그래머스/완주하지 못한 선수.md",
-    "content/코딩 테스트/프로그래머스/실패율.md",
-    "content/코딩 테스트/프로그래머스/배열의 길이에 따라 다른 연산하기.md",
-    "content/코딩 테스트/프로그래머스/방문 길이.md",
-    "content/코딩 테스트/프로그래머스/문자열 여러 번 뒤집기.md",
-    "content/코딩 테스트/프로그래머스/문자열 겹쳐쓰기.md",
     "content/image/Next Reality 최종 구성도.png",
     "content/image/에셋업로드창.png",
     "content/image/125612512.jpg",
@@ -222,8 +224,6 @@
     "content/회고록/제 16기 소프트웨어 마에스트로",
     "content/회고록",
     "content/코딩 테스트/이론",
-    "content/코딩 테스트",
-    "content/컴퓨터공학/C,C++프로그래밍",
-    "content/컴퓨터공학/C프로그래밍"
+    "content/코딩 테스트"
   ]
 }
