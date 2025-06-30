@@ -5,7 +5,22 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'lhr4426/public_vault',
+        // from data-repo-id
+        repoId: 'R_kgDONvCzXw',
+        // from data-category
+        category: 'Comments',
+        // from data-category-id
+        categoryId: 'DIC_kwDONvCzX84CsPRU',
+        // from data-lang
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -34,6 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
