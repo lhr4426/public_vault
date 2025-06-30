@@ -11,12 +11,14 @@
             "id": "14ccfd26df16e906",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/image/TIL배너.png"
+                "file": "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250630.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "TIL배너"
+              "icon": "lucide-file",
+              "title": "내일배움캠프 본캠프 - 250630"
             }
           }
         ]
@@ -175,13 +177,13 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "f7cb1f30978cd977",
+  "active": "14ccfd26df16e906",
   "lastOpenFiles": [
-    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250630.md",
-    "content/2025 스파르타 내배캠 유니티 11기/사전강의/5주차 강의 정리.md",
     "templates/내배캠 템플릿.md",
-    "content/image/TIL배너.png",
     "templates/내배캠 주간 템플릿.md",
+    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250630.md",
+    "content/image/TIL배너.png",
+    "content/2025 스파르타 내배캠 유니티 11기/사전강의/5주차 강의 정리.md",
     "content/image/Pasted image 20250618161523.png",
     "content/image/Pasted image 20250625152052.png",
     "content/image/Pasted image 20250620174049.png",
