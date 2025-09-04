@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250903.md",
+                "file": "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250904.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "내일배움캠프 본캠프 - 250903"
+              "title": "내일배움캠프 본캠프 - 250904"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "5a1cd97940223288",
@@ -181,9 +180,14 @@
   },
   "active": "14ccfd26df16e906",
   "lastOpenFiles": [
+    "content/image/Pasted image 20250904164749.png",
+    "content/image/Pasted image 20250904164601.png",
+    "content/image/Pasted image 20250904164559.png",
+    "content/image/Pasted image 20250904163541.png",
+    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250903.md",
+    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250904.md",
     "content/image/Pasted image 20250903101800.png",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250902.md",
-    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250903.md",
     "content/image/Pasted image 20250902125407.png",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250901.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250831.md",
@@ -197,10 +201,6 @@
     "content/image/Pasted image 20250831154300.png",
     "content/image/Pasted image 20250831154246.png",
     "content/image/Pasted image 20250831153930.png",
-    "content/image/Pasted image 20250831153432.png",
-    "content/image/Pasted image 20250830171817.png",
-    "content/image/Pasted image 20250829200804.png",
-    "content/image/Pasted image 20250829134918.png",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250828.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250827.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 1주차.md",
@@ -216,7 +216,6 @@
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250708.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250709.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250710.md",
-    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250711.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프 WIL",
     "content/Unity RPG 개인 공부",
