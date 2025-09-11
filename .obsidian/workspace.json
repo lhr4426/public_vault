@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250910.md",
+                "file": "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250911.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "내일배움캠프 본캠프 - 250910"
+              "title": "내일배움캠프 본캠프 - 250911"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "5a1cd97940223288",
@@ -181,10 +180,12 @@
   },
   "active": "14ccfd26df16e906",
   "lastOpenFiles": [
+    "content/image/0911 - 1차 플레이어 클래스 다이어그램.png",
+    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250910.md",
+    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250911.md",
     "content/image/Pasted image 20250910145700.png",
     "content/image/Pasted image 20250910124840.png",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250909.md",
-    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250910.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250906.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250908.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250630.md",
@@ -207,7 +208,6 @@
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250722.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250723.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250724.md",
-    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250725.md",
     "content/image/Pasted image 20250909154100.png",
     "content/image/Pasted image 20250909154005.png",
     "content/image/Pasted image 20250909153909.png",
@@ -216,7 +216,6 @@
     "content/image/Pasted image 20250909153340.png",
     "content/image/Pasted image 20250909153255.png",
     "content/image/Pasted image 20250904164749.png",
-    "content/image/Pasted image 20250904164601.png",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프 WIL",
     "content/Unity RPG 개인 공부",
