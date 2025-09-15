@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "5a1cd97940223288",
@@ -180,6 +181,8 @@
   },
   "active": "14ccfd26df16e906",
   "lastOpenFiles": [
+    "content/image/Pasted image 20250915163513.png",
+    "content/image/Pasted image 20250915163051.png",
     "content/image/제목 없음.png",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250913.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250915.md",
@@ -214,7 +217,6 @@
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250717.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250718.md",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 250721.md",
-    "content/image/Pasted image 20250909154100.png",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프 WIL",
     "content/Unity RPG 개인 공부",
