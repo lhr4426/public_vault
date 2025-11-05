@@ -1,11 +1,11 @@
 ---
-title: 스파르타 내배캠 유니티 11기 최종 프로젝트 - Outcry
+title: 2025 스파르타 내배캠 유니티 11기
 date: 2025-11-07
 tags:
   - 게임개발
 description:
 ---
-# Outcry
+# 최종 프로젝트 - Outcry
 
 ![](../image/Outcry_Logo.png)
 
