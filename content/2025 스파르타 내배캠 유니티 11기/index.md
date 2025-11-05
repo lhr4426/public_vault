@@ -11,7 +11,7 @@ description:
 
 # 📼 플레이 영상
 
-[영상 링크]([https://youtu.be/1CEiVFwEHtU?si=n3Afca_H0TSxWhhD](https://youtu.be/1CEiVFwEHtU?si=n3Afca_H0TSxWhhD "https://youtu.be/1CEiVFwEHtU?si=n3Afca_H0TSxWhhD"))
+[영상 링크](https://youtu.be/1CEiVFwEHtU?si=n3Afca_H0TSxWhhD)
 
 # 🔗 배포 링크
 Windows : [Github/Release](https://github.com/Cry4Code/Outcry_public/releases)  
