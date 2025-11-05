@@ -8,11 +8,12 @@ description: 게임 개발 지망생 블로그
 
 프로젝트 기록 :
 
-[2024 컴퓨터공학과 캡스톤디자인 - Next Reality](2024%20컴퓨터공학과%20캡스톤디자인/index.md)  
-  
-[2024 DSC 공유대학 캡스톤디자인 - Motion Wave](2024%20DSC%20공유대학%20캡스톤디자인/index.md)
+[스파르타 게임개발 유니티 11기 최종 프로젝트 - Outcry](2025%20스파르타%20내배캠%20유니티%2011기/index.md)  
 
-[Unity 6 Challenge - 김치런 만들기](Unity%206%20Challenge/index.md)
+[2024 DSC 공유대학 캡스톤디자인 - Motion Wave](2024%20DSC%20공유대학%20캡스톤디자인/index.md)  
+
+[2024 컴퓨터공학과 캡스톤디자인 - Next Reality](2024%20컴퓨터공학과%20캡스톤디자인/index.md)    
+  
 
 공부 기록 :
 
