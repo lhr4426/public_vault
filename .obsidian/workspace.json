@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/코딩 테스트/프로그래머스/N-Queen.md",
+                "file": "content/코딩 테스트/프로그래머스/외벽 점검.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N-Queen"
+              "title": "외벽 점검"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "559e040b9a9d21d2",
   "lastOpenFiles": [
-    "content/코딩 테스트/프로그래머스/피로도.md",
+    "content/코딩 테스트/프로그래머스/양궁대회.md",
+    "content/코딩 테스트/프로그래머스/외벽 점검.md",
     "content/코딩 테스트/프로그래머스/N-Queen.md",
+    "content/코딩 테스트/프로그래머스/피로도.md",
     "content/코딩 테스트/프로그래머스/전력망을 둘로 나누기.md",
     "content/코딩 테스트/프로그래머스/경주로 건설.md",
     "content/코딩 테스트/프로그래머스/배달.md",
@@ -207,8 +209,6 @@
     "content/코딩 테스트/이론/그래프.md",
     "content/코딩 테스트/이론/정렬 기법.md",
     "content/2025 스파르타 내배캠 유니티 11기/index.md",
-    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 수료 후기.md",
-    "content/2025 스파르타 내배캠 유니티 11기/본캠프/내일배움캠프 본캠프 - 251111.md",
     "content/image/완성.gif",
     "content/image/지랄2.gif",
     "content/image/지랄.gif",
