@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/게임서버 만들기 with Go/26-01-08-게임서버만들기-2.md",
+                "file": "content/게임서버 만들기 with Go/26-01-08-게임서버만들기-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26-01-08-게임서버만들기-2"
+              "title": "26-01-08-게임서버만들기-3"
             }
           }
         ]
@@ -180,8 +180,13 @@
   },
   "active": "559e040b9a9d21d2",
   "lastOpenFiles": [
-    "content/게임서버 만들기 with Go/26-01-08-게임서버만들기-1.md",
     "content/게임서버 만들기 with Go/26-01-08-게임서버만들기-2.md",
+    "content/게임서버 만들기 with Go/26-01-08-게임서버만들기-3.md",
+    "content/image/Pasted image 20260113211956.png",
+    "content/image/Pasted image 20260113202425.png",
+    "content/image/Pasted image 20260113201146.png",
+    "content/image/Pasted image 20260113195803.png",
+    "content/게임서버 만들기 with Go/26-01-08-게임서버만들기-1.md",
     "content/게임서버 만들기 with Go/index.md",
     "content/image/Pasted image 20260109203846.png",
     "content/image/Pasted image 20260109202228.png",
@@ -198,10 +203,6 @@
     "content/image/Pasted image 20260109194002.png",
     "content/2024 컴퓨터공학과 캡스톤디자인/index.md",
     "content/2024 DSC 공유대학 캡스톤디자인/index.md",
-    "content/image/Pasted image 20260108194640.png",
-    "content/image/Pasted image 20260108194604.png",
-    "content/image/Pasted image 20260108194457.png",
-    "content/image/Pasted image 20260108194400.png",
     "content/Unity 6 Challenge/index.md",
     "content/코딩 테스트/프로그래머스/사라지는 발판.md",
     "content/게임서버 만들기 with Go",
@@ -215,7 +216,6 @@
     "content/코딩 테스트/프로그래머스/양과 늑대.md",
     "content/코딩 테스트/프로그래머스/실패율.md",
     "content/코딩 테스트/프로그래머스/네트워크.md",
-    "content/코딩 테스트/프로그래머스/게임 맵 최단거리.md",
     "content/Unity 20th Anniversary Game Jam",
     "content/Unity with Spine",
     "content/2025 스파르타 내배캠 유니티 11기/본캠프",
