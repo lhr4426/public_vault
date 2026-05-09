@@ -1,9 +1,9 @@
 ---
-title: 01. MCP
+title: 02. MCP
 date: 2026-01-14
 tags:
   - 소프트웨어
-  - MCP
+  - AI
 description:
 ---
 # MCP?
